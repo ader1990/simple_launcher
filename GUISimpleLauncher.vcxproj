@@ -262,7 +262,7 @@
       <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
     </ClCompile>
     <Link>
-      <OutputFile>dist\w64.exe</OutputFile>
+      <OutputFile>dist\w64-arm.exe</OutputFile>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <GenerateMapFile>true</GenerateMapFile>
       <MapFileName>$(OutDir)$(ProjectName).map</MapFileName>
